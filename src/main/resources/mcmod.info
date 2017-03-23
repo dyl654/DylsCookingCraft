@@ -1,0 +1,19 @@
+[
+{
+  "modid": "dylscookingcraft",
+  "name": "Dyl's CookingCraft",
+  "description": "",
+  "version": "1.0",
+  "credits": "Created by unlaDenShorty",
+  "logoFile": "",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "unlaDenShorty"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+
+]
+}
+]
